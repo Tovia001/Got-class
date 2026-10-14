@@ -1,2 +1,4 @@
 my first project on gomycode session class
 percisely git, github and many more.
+i am practicing how to track changes with git.
+so far i have learnt few commands while practicing. commands like.how to commit - git commit -m (the changes made). staging - git add ("file name"). check if the changes have been uodated - git status.
